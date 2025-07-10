@@ -8,7 +8,8 @@ This is a fully responsive landing page for a fictional food delivery service, b
 [View Live](https://monifood.netlify.app/)
 
 ## 📸 Screenshots
-(Add a screenshot here)
+<img width="1470" height="956" alt="Screenshot 2025-07-11 at 12 32 00 AM" src="https://github.com/user-attachments/assets/157551c4-dcb5-48a2-8c15-4d234f7a139f" />
+
 
 ## 🚀 Features
 - Fully responsive design
